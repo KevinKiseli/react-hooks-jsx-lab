@@ -1,6 +1,6 @@
 import React from "react";
 
-const NavBar = () => {
+function NavBar () {
   // update the JSX being returned!
   return (
   <nav>

@@ -1,7 +1,7 @@
 import React from "react";
 import { name, city } from "../data/data.js";
 
-const Home = () => {
+function Home () {
   // update the JSX being returned!
   return (
   <div id="home">
